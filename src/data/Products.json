@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "/Images/product1.jpg",
+    "secondImage": "/Images/product1b.jpg",
+    "productName": "AirRunner Sneakers",
+    "price": "$89.00",
+    "tag": "New"
+  },
+  {
+    "id": 2,
+    "image": "/Images/product2.jpg",
+    "secondImage": "/Images/product2b.jpg",
+    "productName": "Urban Street Hoodie",
+    "price": "$59.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 3,
+    "image": "/Images/product3.jpg",
+    "secondImage": "/Images/product3b.jpg",
+    "productName": "Classic Denim Jacket",
+    "price": "$109.00",
+    "tag": "Hot"
+  },
+  {
+    "id": 4,
+    "image": "/Images/product4.jpg",
+    "secondImage": "/Images/product4b.jpg",
+    "productName": "Vintage Leather Boots",
+    "price": "$139.00",
+    "tag": "New"
+  },
+  {
+    "id": 5,
+    "image": "/Images/product5.jpg",
+    "secondImage": "/Images/product5b.jpg",
+    "productName": "Slim Fit Chinos",
+    "price": "$49.00",
+    "tag": "Trending"
+  },
+  {
+    "id": 6,
+    "image": "/Images/product6.jpg",
+    "secondImage": "/Images/product6b.jpg",
+    "productName": "Casual Cotton Shirt",
+    "price": "$39.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 7,
+    "image": "/Images/product7.jpg",
+    "secondImage": "/Images/product7b.jpg",
+    "productName": "Minimalist Watch",
+    "price": "$199.00",
+    "tag": "New"
+  },
+  {
+    "id": 8,
+    "image": "/Images/product8.jpg",
+    "secondImage": "/Images/product8b.jpg",
+    "productName": "Sporty Sunglasses",
+    "price": "$79.00",
+    "tag": "Hot"
+  }
+]
